@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @amilivojevic
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning MERN tech stack
+- 📫 How to reach me [lkdin](www.linkedin.com/in/amilivojevic) & [tw](https://twitter.com/amilivojeviccc)
